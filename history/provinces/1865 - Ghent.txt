@@ -23,6 +23,7 @@ discovered_by = ottoman
   owner = SPA
   controller = SPA
   add_core = SPA
+  remove_core = HAB
 }
 1549.11.4 = {
   owner = NED
@@ -35,6 +36,9 @@ discovered_by = ottoman
 }
 1604.1.1 = {
   controller = SPA
+}
+1648.1.30 = {
+  owner = SPA
 }
 1665.9.17 = {
   add_claim = FRA

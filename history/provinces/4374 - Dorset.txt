@@ -46,7 +46,7 @@ discovered_by = eastern
   unrest = 0
 }
 1540.1.1 = {
-  religion = protestant
+  religion = anglican
 }
 1707.5.12 = {
   owner = GBR

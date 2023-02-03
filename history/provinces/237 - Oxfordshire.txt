@@ -37,7 +37,7 @@ discovered_by = eastern
   unrest = 0
 }
 1560.1.1 = {
-  religion = protestant
+  religion = anglican
 }
 1642.9.10 = {
   revolt = {

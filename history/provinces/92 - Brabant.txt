@@ -34,7 +34,7 @@ discovered_by = ottoman
   controller = NED
 }
 1648.1.30 = {
-  controller = SPA
+  owner = SPA
   unrest = 0
 }
 1665.9.17 = {

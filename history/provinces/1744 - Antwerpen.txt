@@ -50,8 +50,6 @@ center_of_trade = 2
 }
 1648.1.30 = {
   owner = SPA
-  add_core = SPA
-  remove_core = NED
   unrest = 0
 }
 1665.9.17 = {

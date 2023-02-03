@@ -43,7 +43,7 @@ center_of_trade = 2
   controller = SPA
 }
 1648.1.30 = {
-  remove_core = NED
+  owner = SPA
 }
 1665.9.17 = {
   add_claim = FRA

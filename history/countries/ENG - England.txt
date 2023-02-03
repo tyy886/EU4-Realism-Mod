@@ -469,7 +469,7 @@ change_estate_land_share = {
   }
 }
 1534.1.1 = {
-  religion = protestant
+  religion = anglican
 }
 1536.1.1 = {
   decision = dissolution_of_the_monasteries
@@ -694,7 +694,7 @@ change_estate_land_share = {
   }
 }
 1558.11.17 = {
-  religion = protestant
+  religion = anglican
 }
 1566.6.19 = {
   heir = {
@@ -1029,7 +1029,7 @@ change_estate_land_share = {
     mil = 2
     regent = yes
   }
-  religion = protestant
+  religion = anglican
   government = republic
   add_government_reform = noble_elite_reform
   set_legacy_government = noble_republic
@@ -1211,7 +1211,7 @@ change_estate_land_share = {
   }
 }
 1688.12.11 = {
-  religion = protestant
+  religion = anglican
 }
 1688.12.11 = {
   monarch = {

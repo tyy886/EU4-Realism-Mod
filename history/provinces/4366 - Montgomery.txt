@@ -74,5 +74,5 @@ discovered_by = eastern
   remove_core = ENG
 }
 1750.1.1 = {
-  religion = reformed
+  religion = anglican
 }

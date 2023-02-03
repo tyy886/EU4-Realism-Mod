@@ -693,9 +693,6 @@ government_rank = 3
     female = yes
   }
 }
-1711.1.1 = {
-  technology_group = western
-}
 1712.1.1 = {
   decision = make_st_petersburg_capital
 }

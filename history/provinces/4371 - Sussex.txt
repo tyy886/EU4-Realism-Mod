@@ -60,7 +60,7 @@ discovered_by = eastern
   unrest = 0
 }
 1538.1.1 = {
-  religion = protestant
+  religion = anglican
 }
 1580.1.1 = {
   religion = reformed
