@@ -84,9 +84,6 @@ country_event = {
         controlled_by = REB
       }
       NOT = {
-        has_province_flag = dutch_revolt
-      }
-      NOT = {
         has_province_flag = no_dutch_revolt
       }
       OR = {
@@ -103,9 +100,6 @@ country_event = {
           region = low_countries_region
           NOT = {
             controlled_by = REB
-          }
-          NOT = {
-            has_province_flag = dutch_revolt
           }
           NOT = {
             has_province_flag = no_dutch_revolt

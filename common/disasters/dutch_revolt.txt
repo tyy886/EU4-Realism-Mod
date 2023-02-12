@@ -210,7 +210,7 @@ dutch_revolt_disaster = {
 					tooltip = had_disaster_for_x_years_dutch
 					had_global_flag = {
 						flag = dutch_revolt
-						days = 7300 # 20 years
+						days = 29200 # 80 years
 					}
 				}
 				NOT = { num_of_rebel_armies = 1 }
@@ -243,8 +243,8 @@ dutch_revolt_disaster = {
 			flavor_bur.10 # netherlands declare independence
 		}
 		random_events = {
-			100 = 0
-			5 = flavor_bur.9 # random rebels spawn
+			67 = 0
+			33 = flavor_bur.9 # random rebels spawn
 		}	
 	}
 
