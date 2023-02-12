@@ -1959,6 +1959,23 @@ manufactories = {
 				}
 			}
 		}
+		modifier = {
+			factor = -100
+			potential = {
+				NOT = {
+					owner = {
+						OR = {
+							technology_group = western
+							technology_group = eastern
+							technology_group = ottoman
+						}
+					}
+				}
+				NOT = {
+					superregion = china_superregion
+				}
+			}
+		}
 	}
 	
 	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
@@ -2339,6 +2356,18 @@ enlightenment = {
 				is_owned_by_trade_company = no
 				owner = {
 					has_institution = enlightenment
+				}
+			}
+		}
+		modifier = {
+			factor = -100
+			potential = {
+				NOT = {
+					owner = {
+						OR = {
+							technology_group = western
+						}
+					}
 				}
 			}
 		}
@@ -2999,6 +3028,16 @@ industrialization = {
 				is_owned_by_trade_company = no
 				owner = {
 					has_institution = industrialization
+				}
+			}
+		}
+		modifier = {
+			factor = -100
+			potential = {
+				NOT = {
+					owner = {
+						technology_group = western
+					}
 				}
 			}
 		}
