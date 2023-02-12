@@ -641,7 +641,7 @@ exploration_ideas = {
 			is_tribal = yes
 		}
 		modifier = {
-			factor = 0
+			factor = 0.03
 			is_subject = yes
 		}		
 		modifier = {
@@ -649,7 +649,7 @@ exploration_ideas = {
 			primitives = yes
 		}
 		modifier = {
-			factor = 0
+			factor = 0.03
 			current_age = age_of_revolutions #too late
 		}
 		modifier = {
